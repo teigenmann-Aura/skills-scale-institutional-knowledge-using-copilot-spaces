@@ -12,5 +12,9 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+📂 Looking for OctoAcme's project management process docs? Head over to **[docs/README.md](./docs/README.md)** for an overview and links to all key guides.
+
+---
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
