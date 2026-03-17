@@ -29,6 +29,10 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
   - Rollback to last known-good release if necessary
   - Triage root cause and capture action items
 
+## Pre-Release Role Sign-off
+
+Before approving deployment, use the [Release Handoff Checklist](./octoacme-release-handoff-checklist.md) to confirm that the Product Manager, Project Manager, Developers, and QA Automation Specialist have each completed their pre-release responsibilities.
+
 ## Release Notes Template
 - Release name / number:
 - Date:
